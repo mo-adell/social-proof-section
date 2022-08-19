@@ -1,0 +1,20 @@
+:root {
+  /*  C O L O R S  */
+  --dark-magenta  :  hsl(300, 43%, 22%);
+  --soft-pink     :  hsl(333, 80%, 67%);
+  --gray-magenta  :  hsl(303, 10%, 53%);
+  --light-magneta :  hsl(300, 24%, 96%);
+  --white         :  hsl(0, 0%, 100%);
+}
+
+//Maps
+$breakpoints: (
+  // 600px
+  sm: 37.5rem,
+  // 768px
+  md: 48rem,
+  // 992px
+  lg: 62rem,
+  // 1200px
+  xlg: 75rem,
+);
